@@ -1,0 +1,14 @@
+{
+    "RTC_DS1307.DateTime|block": "ustaw rok %year|    miesiąc %month|      dzień %day|     godzinę %hour|   minuty %minute|   sekundy %second",
+    "RTC_DS1307.TimeType.DAY|block": "dzień",
+    "RTC_DS1307.TimeType.HOUR|block": "godzina",
+    "RTC_DS1307.TimeType.MINUTE|block": "minuta",
+    "RTC_DS1307.TimeType.MONTH|block": "miesiąc",
+    "RTC_DS1307.TimeType.SECOND|block": "sekunda",
+    "RTC_DS1307.TimeType.YEAR|block": "rok",
+    "RTC_DS1307.getTime|block": "%data",
+    "RTC_DS1307.getWeekday|block": "dzień tygodnia",
+    "RTC_DS1307.setTime|block": "ustaw %datatype |%data",
+    "RTC_DS1307|block": "Zegar RTC1307",
+    "{id:category}RTC_DS1307": "Zegar RTC1307"
+}
